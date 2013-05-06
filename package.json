@@ -1,6 +1,6 @@
 {
   "name": "passport-qq",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "qq authentication strategy for Passport.",
   "author": { "name": "Andy Shang", "email": "andy.amuro@gmail.com", "url": "http://github.com/andyshang" },
   "repository": {
